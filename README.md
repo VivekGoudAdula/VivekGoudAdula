@@ -27,16 +27,7 @@ I'm a passionate and hardworking **coding enthusiast** with a strong commitment 
 | **Viswam.AI, Swecha Foundation, IIIT-H** *(May 2025 – Aug 2025)* | **Artificial Intelligence Intern** (Hybrid) | Developed **Streamlit-based AI applications** with Hugging Face models for Q&A. Built **RAG (Retrieval-Augmented Generation) chatbots** for accurate AI summaries. |
 | **GENAI Lakes, T-HUB** *(May 2025 – Jul 2025)* | **Artificial Intelligence Intern** (Hybrid) | Developed the **Crack Orbit Mock Testing Platform** (React, Node.js, PostgreSQL). Integrated **Gemini API** for AI-powered **resume parsing** in an ATS module. Built a Face Recognition Attendance System (Python/FastAPI). |
 | **Garuda3D** *(June 2024 – Aug 2024)* | **AIML Research, Designing, Digital Marketing** (Offline) | Researched **AI/ML for 3D print failure detection**. Created professional designs (Canva) and contributed to digital marketing efforts. |
-| **Cognifyz Technologies** *(May 2024)* | **Python Development** (Online) | Crafted a Python-based **automation script** that reduced manual data entry time by **15 hours per week**, significantly improving data accuracy. |
-
----
-
-## 🚀 Projects & Contributions
-
-* **\[Project Name 1]**: *(Please add your project name here!)*
-* **\[Project Name 2]**: *(List your project details!)*
-
-*(You can add badges for your main project technologies here, e.g. for Python, React, etc.)*
+| **Cognifyz Technologies** *(May 2024)* | **Python Development** (Online) | Crafted a Python-based **automation script** that reduced manual data entry time by **15 hours per week**, significantly improving data accuracy. 
 
 ---
 
@@ -61,13 +52,11 @@ I'm a passionate and hardworking **coding enthusiast** with a strong commitment 
 * **General:** University of Washington (Dynamic Public Speaking), NIPAM (IP Awareness).
 
 ---
-**Profile Views:** ![GitHub views](https://hits.sh/github.com/VivekGoudAdula/VivekGoudAdula.svg?style=flat-square&color=008080)
----
 
 ## 🔗 Connect with me
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekgoudadula/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VivekGoudAdula)
 
 ***
 
