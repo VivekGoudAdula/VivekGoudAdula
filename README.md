@@ -61,6 +61,8 @@ I'm a passionate and hardworking **coding enthusiast** with a strong commitment 
 * **General:** University of Washington (Dynamic Public Speaking), NIPAM (IP Awareness).
 
 ---
+**Profile Views:** ![GitHub views](https://hits.sh/github.com/VivekGoudAdula/VivekGoudAdula.svg?style=flat-square&color=008080)
+---
 
 ## 🔗 Connect with me
 
