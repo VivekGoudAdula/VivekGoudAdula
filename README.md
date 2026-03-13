@@ -4,7 +4,7 @@ I'm a passionate and hardworking **coding enthusiast** with a strong commitment 
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 ### Programming & Databases
 | Category | Skills |
@@ -20,7 +20,7 @@ I'm a passionate and hardworking **coding enthusiast** with a strong commitment 
 
 ---
 
-## 💡 Key Internships & Experience
+## Key Internships & Experience
 
 | Internship | Role & Focus | Key Achievements |
 | :--- | :--- | :--- |
@@ -31,7 +31,7 @@ I'm a passionate and hardworking **coding enthusiast** with a strong commitment 
 
 ---
 
-## 🏆 Achievements & Education
+## Achievements & Education
 
 ### Academic Excellence & Hackathons
 * **Won 1st Prize** in the **Agentic AI Hackathon** organized by AI Innovators Club.
@@ -46,14 +46,14 @@ I'm a passionate and hardworking **coding enthusiast** with a strong commitment 
 
 ---
 
-## 📚 Certifications
+## Certifications
 * **AI/ML:** Infosys Spring Board (Introduction to AI/ML, Python), Microsoft (Fundamental AI concepts).
 * **Data Science:** IBM (Python for Data Science).
 * **General:** University of Washington (Dynamic Public Speaking), NIPAM (IP Awareness).
 
 ---
 
-## 🔗 Connect with me
+## Connect with me
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekgoudadula/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VivekGoudAdula)
