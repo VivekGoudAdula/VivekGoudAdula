@@ -9,9 +9,9 @@ I'm a passionate and hardworking **coding enthusiast** with a strong commitment 
 ### Programming & Databases
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | **Python** (Automation, Backend), **C** |
+| **Languages** | **Python** (Automation, Backend) |
 | **Web & Backend** | **React JS**, **NODE JS** (MERN Stack Experience) |
-| **Databases** | **MySQL**, **PostgreSQL** |
+| **Databases** | **MySQL**, **PostgreSQL**, **MongoDB** |
 
 ### Soft Skills
 * **Leadership**
