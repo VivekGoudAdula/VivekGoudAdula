@@ -1,4 +1,4 @@
-# Hi there! I'm **Vivek Goud Adula** 👋
+# Hi there! I'm **Vivek Goud Adula** 
 
 
 I'm a passionate and hardworking **coding enthusiast** with a strong commitment to learning and problem-solving, currently pursuing a B.Tech in Computer Science with AIML. My strengths in **logical thinking, adaptability, and teamwork** enable me to excel in collaborative environments. I have a detail-oriented approach and quickly grasp new technologies, making me a valuable contributor in any coding project.
